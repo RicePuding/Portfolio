@@ -1,0 +1,15 @@
+SWIMMING COLLAGE
+
+swimming.jpg = included: Bosphorus photo naturally cropped to exclude the person on the right.
+swimming-2.jpg = optional second swimming/team photo
+swimming-3.jpg = optional third swimming/pool photo
+swimming-4.jpg = optional fourth swimming/race photo
+
+Save your own photos under these exact names in this folder.
+The site will automatically replace the pastel placeholder tiles with your pictures.
+
+CIVIC LIFE CARD
+
+civic-life.jpg = optional community/civic engagement photograph.
+
+Tip: landscape pictures work best in the small tiles, and vertical photos work best in the large swimming tile.
